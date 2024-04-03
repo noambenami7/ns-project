@@ -1,0 +1,9 @@
+notes for the project!
+
+1. I have only one problam that i couldnt figer out its about the lissening of connections. if there was no connecion when you start the script the scirpt would stop work after        
+   starting the services, but if you will connect befor runing the script its would work great and will lisening antill you will stop the script.
+   ( I have send you a screenshot )
+
+2. All the deatils about the nmap and the activity log will be save in files if you want to search inside them.
+
+3. Have fun!
