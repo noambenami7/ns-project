@@ -1,5 +1,4 @@
-#project
-for linux machines 
+
 
 #Note
 
